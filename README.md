@@ -16,8 +16,6 @@ Example_2and4.R produces the results in examples 2 and 4 in Section 3.2
 
 Simulation_airport_game.R produces the results in airport game example in Section 4
 
-supp-simulation1_the_electoral_college.R produces the results in the electoral college example in the supplemental material
-
 supp-simulation2_manufacturing_system_model.R produces the results in the manufactoring system example in the supplemental material
 
 # real-data-code
@@ -26,5 +24,9 @@ Application1_911_terrorist.R produces the results of the first example in Sectio
 Application2_CE_vervous.R produces the results of the second example in Section 5
 
 supp-simulation3_Titanic_data.R produces the results in the Titanic example in the supplemental material
+
+supp-simulation1_the_electoral_college.R produces the results in the electoral college example in the supplemental material
+
+data folder contains the data needed for running the above codes. 
 
 
