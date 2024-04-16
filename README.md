@@ -18,6 +18,14 @@ Simulation_airport_game.R produces the results in airport game example in Sectio
 
 supp-simulation2_manufacturing_system_model.R produces the results in the manufactoring system example in the supplemental material
 
+# figures
+Produces Figures 1-5 in the paper and Figures S1, S3, and S4 in the supplement.
+
+# figures-code
+Contains the code for reproducing the figures in the paper. To run the codes, load the workspace that can be downloaded from http://web.stat.nankai.edu.cn/ydzhou/RData.html
+
+
+
 # real-data-code
 Application1_911_terrorist.R produces the results of the first example in Section 5
 
