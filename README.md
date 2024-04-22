@@ -33,11 +33,11 @@ Application2_CE_vervous.R produces the results of the second example in Section 
 
 supp-simulation3_Titanic_data.R produces the results in the Titanic example in the supplemental material
 
-# R package
-contains source files for the R package of the proposed algorithm
-
 supp-simulation1_the_electoral_college.R produces the results in the electoral college example in the supplemental material
 
 data folder contains the data needed for running the above codes. 
+
+# R package
+contains source files for the R package of the proposed algorithm
 
 
