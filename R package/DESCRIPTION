@@ -1,0 +1,17 @@
+Package: ShapDoE
+Type: Package
+Title: Approximation of the Shapley Values Based on Experimental
+        Designs
+Version: 0.1.0
+Author: Liuqing Yang
+Maintainer: Liuqing Yang <yliuqing0714@163.com>
+Description: This library can realize the algorithm in the paper 
+    "Fast Approximation of the Shapley Values Based on Order-of-Addition 
+    Experimental Designs" by Liuqing Yang, Yongdao Zhou, Haoda Fu, Min-Qian Liu 
+    and Wei Zheng.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: gtools
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2024-04-19 02:03:28 UTC; lydia
