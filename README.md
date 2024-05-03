@@ -39,6 +39,7 @@ data folder contains the data needed for running the above codes.
 
 # R package
 contains source files for the R package of the proposed algorithm
+
 Also it is uploaded to R-cran with package name "ShapDoE"
 https://cran.r-project.org/web/packages/ShapDoE/index.html
 
